@@ -9,3 +9,8 @@ At its core, the cloud refers to a network of servers, storage, and computing po
 accessible over the internet. Unlike traditional computing, where software and data are stored on physical
 devices, cloud computing allows users to access applications and services remotely. This shift to the 
 cloud has transformed the way we store, process, and share information.
+
+**Benefits of Cloud Computing:**
+1.   Cost-Efficiency:
+
+Traditional IT infrastructure often requires significant upfront investments in hardware and maintenance. Cloud computing operates on a pay-as-you-go model, allowing users to pay only for the resources they use. This makes it an attractive option for businesses looking to optimize their budget.
